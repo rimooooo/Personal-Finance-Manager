@@ -2,6 +2,7 @@ import "./Dashboard.css"
 
 export default function Dashboard() {
    return (
+      <>
       <div className="main">
          <div className="home-icon">
             <i class="fa-solid fa-swatchbook"></i> 
@@ -16,7 +17,8 @@ export default function Dashboard() {
          <div className="icons1">
             <i class="fa-solid fa-arrow-right-from-bracket"></i>
          </div>
-         
       </div>
+      
+      </>
    )
 }

@@ -4,6 +4,8 @@
    height: 750px;
    width: 40px;
    color: white;
+   margin-top: 3px;
+   margin-bottom: 3px;
 }
 
 .home-icon{
@@ -32,3 +34,5 @@
    font-size: 25px;
    padding-top: 100px;
 }
+
+
